@@ -1,0 +1,35 @@
+2025-02-11 22:36:35,961 - INFO - New file detected: test_folder\file1.txt
+2025-02-11 22:36:35,961 - WARNING - Email credentials not set. Skipping email alert.
+2025-02-11 22:36:35,961 - INFO - New file detected: test_folder\file2.txt
+2025-02-11 22:36:35,961 - WARNING - Email credentials not set. Skipping email alert.
+2025-02-11 22:36:35,962 - INFO - New file detected: test_folder\file3.txt
+2025-02-11 22:36:35,962 - WARNING - Email credentials not set. Skipping email alert.
+2025-02-11 22:36:35,962 - INFO - New file detected: test_folder\file4.txt
+2025-02-11 22:36:35,962 - WARNING - Email credentials not set. Skipping email alert.
+2025-02-11 22:36:35,971 - INFO - Checked at 2025-02-11 22:36:35 - Monitoring 4 files.
+2025-02-11 22:36:45,974 - INFO - Checked at 2025-02-11 22:36:45 - Monitoring 4 files.
+2025-02-11 22:36:55,977 - WARNING - File deleted: test_folder\file4.txt
+2025-02-11 22:36:55,977 - WARNING - Email credentials not set. Skipping email alert.
+2025-02-11 22:36:55,978 - INFO - Backup of hash file created.
+2025-02-11 22:36:55,978 - INFO - Checked at 2025-02-11 22:36:55 - Monitoring 3 files.
+2025-02-11 22:37:05,981 - INFO - Checked at 2025-02-11 22:37:05 - Monitoring 3 files.
+2025-02-11 22:37:15,985 - INFO - Checked at 2025-02-11 22:37:15 - Monitoring 3 files.
+2025-02-11 22:37:25,990 - INFO - Checked at 2025-02-11 22:37:25 - Monitoring 3 files.
+2025-02-11 22:37:35,995 - INFO - New file detected: test_folder\file4.txt
+2025-02-11 22:37:35,996 - WARNING - Email credentials not set. Skipping email alert.
+2025-02-11 22:37:35,996 - INFO - Backup of hash file created.
+2025-02-11 22:37:35,997 - INFO - Checked at 2025-02-11 22:37:35 - Monitoring 4 files.
+2025-02-11 22:37:46,000 - INFO - Checked at 2025-02-11 22:37:46 - Monitoring 4 files.
+2025-02-11 22:37:56,003 - INFO - Checked at 2025-02-11 22:37:56 - Monitoring 4 files.
+2025-02-11 22:38:06,007 - INFO - Checked at 2025-02-11 22:38:06 - Monitoring 4 files.
+2025-02-11 22:38:16,013 - INFO - Checked at 2025-02-11 22:38:16 - Monitoring 4 files.
+2025-02-11 22:38:26,020 - INFO - Checked at 2025-02-11 22:38:26 - Monitoring 4 files.
+2025-02-11 22:38:36,024 - INFO - Checked at 2025-02-11 22:38:36 - Monitoring 4 files.
+2025-02-11 22:38:46,027 - INFO - Checked at 2025-02-11 22:38:46 - Monitoring 4 files.
+2025-02-11 22:38:56,032 - INFO - Checked at 2025-02-11 22:38:56 - Monitoring 4 files.
+2025-02-11 22:39:06,036 - INFO - Checked at 2025-02-11 22:39:06 - Monitoring 4 files.
+2025-02-11 22:39:16,040 - INFO - Checked at 2025-02-11 22:39:16 - Monitoring 4 files.
+2025-02-11 22:39:26,043 - INFO - Checked at 2025-02-11 22:39:26 - Monitoring 4 files.
+2025-02-11 22:39:36,046 - INFO - Checked at 2025-02-11 22:39:36 - Monitoring 4 files.
+2025-02-11 22:39:46,049 - INFO - Checked at 2025-02-11 22:39:46 - Monitoring 4 files.
+2025-02-11 22:39:56,053 - INFO - Checked at 2025-02-11 22:39:56 - Monitoring 4 files.
